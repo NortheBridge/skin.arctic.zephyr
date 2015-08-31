@@ -1,3 +1,11 @@
+[B]3.0.0[/B]
+Initial Release of "From Ashes"
+New Audio Navigation Package
+New About Page (Accessible from Settings)
+Fixed Time Meridian in Media Information Screen
+Additional Color Selections
+Splash Screen Updated with "From Ashes"
+
 [B]1.2.5[/B]
 pvrosdguide to fixed list show current at top
 Fix osd streaming info

@@ -3,9 +3,15 @@ Arctic Zephyr is licensed under the Creative Commons Attribution-NonCommercial-S
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
 or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
 
+Originally Designed for Kodi by: JurialMunkey
+Originally Modified for Emby Server for Kodi by: im85288 and badaas
+Currently Maintained for Emby Server By: Guardian Hope (on behalf of NortheBridge)
+
 As of Arctic Zephyr 3 ("From Ashes"), the license is also available on the Arctic Zephyr Homepage.
 To view a copy of this license and additional information, visit https://northebridge.com/systems/oss/arcticzephyr
-or contact NortheBridge(R) directly at https://northebridge.com/support 
+or contact NortheBridge(R) directly at https://northebridge.com/support
+
+ 
 
 Arctic Zephyr is free and open source software designed to work with Kodi and Emby Server. You may do the following:
 
@@ -29,3 +35,13 @@ Notices:
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, 
 or moral rights may limit how you use the material.
+
+
+
+From Ashes Audio Suite Notice:
+
+Audio included in Arctic Zephyr: From Ashes used with permission from Microsoft Corporation and may not be redistrbuted for commercial purposes. It is strongly advised
+that you contact Microsoft (https://microsoft.com) prior to using the Arctic Zephyr: From Ashes Audio Suite. The Confluence sound effect is available for use in any
+fork of this project and is located in "/sounds/switch_legacy.wav"
+
+Xbox One and Windows 10 Navigation Sounds Copyright (C)2013-2015, Microsoft. All Rights Reserved.

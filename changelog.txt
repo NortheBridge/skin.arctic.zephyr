@@ -1,10 +1,19 @@
-[B]3.0.0[/B]
+B][U]Arctic Zephyr for Emby Changelog[/U][/B]
+
+[B]3.0.0 - "From Ashes"[/B]
 Initial Release of "From Ashes"
-New Audio Navigation Package
+Jarvis Compatibility
+New Audio Navigation Suite
 New About Page (Accessible from Settings)
+Fixed Dependency: Movie Genre Icon Colours Now Uses Jarvis Compatible Version 2
 Fixed Time Meridian in Media Information Screen
-Additional Color Selections
+Fixed Time Location on "Classic" Home Screen
+Updated Addon Information
+Colour Selections Now "Theme Accents"
+Added New Accent Colours
 Splash Screen Updated with "From Ashes"
+
+[B][U]Arctic Zephyr Base Theme Changelog[/U][/B]
 
 [B]1.2.5[/B]
 pvrosdguide to fixed list show current at top

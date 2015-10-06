@@ -32,6 +32,8 @@
         </control>
         <control type="label">
             <description>Loading2</description>
+			<posx>960</posx>
+			<posy>530</posy>
             <width>100%</width>
             <height>100%</height>
             <align>center</align>
@@ -44,6 +46,8 @@
         </control>
         <control type="label">
             <description>Loading3</description>
+			<posx>960</posx>
+			<posy>510</posy>
             <width>100%</width>
             <height>100%</height>
             <align>center</align>

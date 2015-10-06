@@ -13,7 +13,7 @@ Colour Selections Now "Theme Accents"
 Added New Accent Colours
 Splash Screen Updated with "From Ashes"
 
-[B][U]Arctic Zephyr Base Theme Changelog[/U][/B]
+[B]Arctic Zephyr Base Theme Changelog[/B]
 
 [B]1.2.5[/B]
 pvrosdguide to fixed list show current at top

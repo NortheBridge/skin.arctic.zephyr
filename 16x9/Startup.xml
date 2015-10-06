@@ -28,7 +28,31 @@
             <font>EpisodeNumber</font>
             <textcolor>Dark1</textcolor>
             <animation effect="fade" start="100" end="0" time="500" tween="quadratic">WindowClose</animation>
-            <visible>IsEmpty(Skin.String(StartupPlaylist))</visible>
+			<visible>IsEmpty(Skin.String(StartupPlaylist))</visible>
         </control>
+        <control type="label">
+            <description>Loading2</description>
+            <width>100%</width>
+            <height>100%</height>
+            <align>center</align>
+            <aligny>center</aligny>
+            <label>Designed for [COLOR=$VAR[ColourHighlight]]Emby Media Server[/COLOR]</label>
+            <font>Tiny</font>
+            <textcolor>Dark1</textcolor>
+            <animation effect="fade" start="100" end="0" time="500" tween="quadratic">WindowClose</animation>
+			<visible>IsEmpty(Skin.String(StartupPlaylist))</visible>
+        </control>
+        <control type="label">
+            <description>Loading3</description>
+            <width>100%</width>
+            <height>100%</height>
+            <align>center</align>
+            <aligny>center</aligny>
+            <label>Curated By: [COLOR=$VAR[ColourHighlight]]NortheBridge[/COLOR]</label>
+            <font>Tiny</font>
+            <textcolor>Dark1</textcolor>
+            <animation effect="fade" start="100" end="0" time="500" tween="quadratic">WindowClose</animation>
+            <visible>IsEmpty(Skin.String(StartupPlaylist))</visible>
+        </control>		
     </controls>
 </window>

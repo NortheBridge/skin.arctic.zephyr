@@ -1,3 +1,14 @@
+[B][U]Arctic Zephyr for Emby Changelog[/U][/B]
+
+[B]3.0.00 - "From Ashes"[/B]
+Initial Release of "From Ashes" - "December Update"
+Jarvis Compatibility
+Adds the From Ashes ""Audio Suite"
+Fixed Dependency: Movie Genre Icon Colours Now Uses Jarvis Compatible Version 2
+
+
+[B]Arctic Zephyr Base Theme Changelog[/B]
+
 [B]1.2.5[/B]
 pvrosdguide to fixed list show current at top
 Fix osd streaming info

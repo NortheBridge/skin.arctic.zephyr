@@ -40,8 +40,6 @@ or moral rights may limit how you use the material.
 
 From Ashes Audio Suite Notice:
 
-Audio included in Arctic Zephyr: From Ashes used with permission from Microsoft Corporation and may not be redistrbuted for commercial purposes. It is strongly advised
-that you contact Microsoft (https://microsoft.com) prior to using the Arctic Zephyr: From Ashes Audio Suite. The Confluence sound effect is available for use in any
-fork of this project and is located in "/sounds/switch_legacy.wav"
-
-Xbox One and Windows 10 Navigation Sounds Copyright (C)2013-2015, Microsoft. All Rights Reserved.
+Audio included in Arctic Zephyr: From Ashes is licensed under GPLv3 and intended for non-commercial purposes only. The original
+Confluence sound effect is available for use in any fork of this project and is located in "/sounds/switch_legacy.wav." The
+From Ashes Audio Suite is available on GitHub at https://github.com/NortheBridge/resource.uisounds.fromashes
